@@ -42,7 +42,7 @@ class RewardsPage extends StatelessWidget {
                 labelColor: Color(0xFF003366), // Selected tab color
                 unselectedLabelColor: Colors.grey, // Unselected tab color
                 labelStyle: TextStyle(
-                  fontSize: 12,
+                  fontSize: 16,
                   fontWeight: FontWeight.bold,
                 ),
                 unselectedLabelStyle: TextStyle(
